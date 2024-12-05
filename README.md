@@ -6,4 +6,4 @@ To start this project we make a [project proposal](https://docs.google.com/prese
 
 We then combined this data from the US Census Bureau with the US Census Burea Tiger shaper file for Ohio (both the 2010 and 2023 versions) to create our [Ohio population data for 2010 and 2020](https://drive.google.com/drive/folders/1-YXEtulCXWJRxuYBSmRGrgSJptjTG4YK?usp=drive_link) shapefile.
 
-Finally using QGIS and the data set we create we made our final maps and created a story map of our [final project results](https://storymaps.arcgis.com/stories/4be2c22255754322ae4083dd33199a8a).
+Finally using QGIS and the shapefile we created we made our final maps and created a story map of our [final project results](https://storymaps.arcgis.com/stories/4be2c22255754322ae4083dd33199a8a).
